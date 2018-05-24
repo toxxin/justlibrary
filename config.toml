@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://justlibrary.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "JustLibrary.org"
+theme = "justlibrary"
+featured_image = "/images/background-image.jpg"
