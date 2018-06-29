@@ -7,4 +7,8 @@ menu:
 
 ---
 
+Here is the list of people who inspire us, give new ideas, materials and `feed` us with priceless advice.
 
+- myself
+- friends
+- others
