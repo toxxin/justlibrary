@@ -1,6 +1,6 @@
 ---
 title: About
-description: Creators, makers & doers
+# description: 123
 type: page
 featured_image: '/images/background-image-about1.jpg'
 menu:
@@ -8,4 +8,4 @@ menu:
 
 ---
 
-Here is the list of people who inspire us, give new ideas, materials and `feed` us with priceless advice. 
+This resource is open sourced, which means that everyone is permitted to copy and distribute copies of any part of our materials w/o any licenses and restrictions. Enjoy.
